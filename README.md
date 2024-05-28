@@ -45,7 +45,7 @@ Given a text file `ips.txt` with the following content:
 Run the script:
 
 ```sh
-python check_smtp.py ips.txt
+python smtpbeacon.py ips.txt
 ```
 
 Output:
