@@ -26,7 +26,7 @@ This Python script checks if the SMTP port 25 is open on a list of IP addresses.
 2. Run the script from the command line, passing the path to your text file as an argument:
 
     ```sh
-    python check_smtp.py path/to/ip_list.txt
+    python smtpbeacon.py path/to/ip_list.txt
     ```
 
     Replace `path/to/ip_list.txt` with the actual path to your text file.
